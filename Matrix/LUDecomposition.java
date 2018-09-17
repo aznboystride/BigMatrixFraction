@@ -7,6 +7,7 @@ import java.util.HashMap;
 /**
  *
  * @author Fair Nuri Aboshehwa
+ * Performs LU Decomposition of a Matrix Object
  */
 public class LUDecomposition {
     
